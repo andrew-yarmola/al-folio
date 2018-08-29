@@ -1,13 +1,19 @@
 .profile {
     img {
         box-shadow: 0 0 5px $grey-color;
-        width: 100%;
+        width: 95%;
     }
 }
 .address {
     font-family: monospace;
-
     p { margin: 0; }
+}
+
+.contact {
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 16px;
 }
 
 .news {
@@ -38,6 +44,6 @@
 
 .social {
     border-top: 1px solid $grey-color-light;
-    margin-top: 50px;
-    padding-top: 20px;
+    margin-top: 10px;
+    padding-top: 5px;
 }

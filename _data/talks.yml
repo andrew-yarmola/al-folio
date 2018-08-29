@@ -1,0 +1,15 @@
+lunch:
+    path: /assets/pdf/lunch_seminar.pdf
+
+singapore:
+    path: /assets/pdf/singapore.pdf
+
+rutgers:
+    path: /assets/pdf/rutgers.pdf
+
+lie:
+    path: /assets/pdf/compact_lie_groups.pdf
+
+gear:
+    path: /assets/pdf/gear_notes_2014.pdf
+
