@@ -6,7 +6,7 @@ description:
 contact: true
 ---
 
-<img class="col one" align="right" src="{{'/assets/img/julia_new.png' | prepend: site.baseurl | prepend: site.url }}">In Fall 2018, I will be teaching Calculus II (MAT104). All materials can be found on [Blackboard](https://blackboard.princeton.edu).
+<img class="col one" align="right" src="{{'/assets/img/julia_new.jpg' | prepend: site.baseurl | prepend: site.url }}">In Fall 2018, I will be teaching Calculus II (MAT104). All materials can be found on [Blackboard](https://blackboard.princeton.edu).
 
 Below is a list of courses where I have been the sole instructor of record. Clicking the name of the couse should lead you to the course website or notes.
 
