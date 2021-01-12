@@ -6,7 +6,7 @@ description:
 contact: true
 ---
 
-<img class="one" align="right" src="{{'/assets/img/hull.pdf' | prepend: site.baseurl | prepend: site.url }}">My research is primarily concerned with geometric structures on surfaces and 3-manifolds. In particular, my interests include :
+<img class="one" align="right" src="{{'/assets/img/hull.png' | prepend: site.baseurl | prepend: site.url }}">My research is primarily concerned with geometric structures on surfaces and 3-manifolds. In particular, my interests include :
 
 * hyperbolic geometry; identities on hyperbolic manifolds
 * Teichmüller theory and Kleinian groups

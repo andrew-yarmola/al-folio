@@ -6,12 +6,15 @@ description:
 contact: true
 ---
 
-<img class="col one" align="right" src="{{'/assets/img/julia_new.jpg' | prepend: site.baseurl | prepend: site.url }}">In Fall 2019, I am teaching Multivariable Calculus (MAT201).
-In Spring 2020, I will be teaching Honors Linear Algebra (MAT217). All materials can be found on [Blackboard](https://blackboard.princeton.edu).
+<img class="col one" align="right" src="{{'/assets/img/julia_new.jpg' | prepend: site.baseurl | prepend: site.url }}">In Fall 2020, I am course head and teaching Multivariable Calculus (MAT201).
+In Spring 2021, I will be teaching Honors Linear Algebra (MAT217). All materials can be found on [Canvas](https://canvas.princeton.edu).
 
-Below is a list of courses where I have been the sole instructor of record. Clicking the name of the couse should lead you to the course website or notes.
+Below is a list of courses where I have been the instructor and/or course head. Clicking the name of the couse should lead you to the course website or notes.
 
 #### Princeton University
+* Spring 2021 : [Honors Linear Algebra](https://canvas.princeton.edu) (MAT217)
+* Fall 2020 : [Multivariable Calculus](https://canvas.princeton.edu) (MAT201)
+* Summer 2020 : [Multivariable Calculus](https://canvas.princeton.edu) (MAT201)
 * Spring 2020 : [Honors Linear Algebra](https://blackboard.princeton.edu) (MAT217)
 * Fall 2019 : [Multivariable Calculus](https://blackboard.princeton.edu) (MAT201)
 * Spring 2019 : [Advanced Linear Algebra with Applications](https://blackboard.princeton.edu) (MAT204)
