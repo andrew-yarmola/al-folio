@@ -7,7 +7,7 @@ contact: true
 ---
 
 
-This page contains some mathematical software projects. Most recent code should be available on my [github]({{ 'https://github.com/' | append: site.github_username }}). Much of the code I publish is written in python, but I do use other languages for fun. I taught a [course]({{site.data.link.pycourse.url}}) on python at the [University of Luxembourg]({{site.data.links.Luxembourg.url}}), which some my find useful.
+This page contains some mathematical software projects. Most recent code should be available on my [github]({{ 'https://github.com/' | append: site.github_username }}). Much of the code I publish is written in python, but I do use other languages for fun. I taught a [course]({{site.data.links.pycourse.url}}) on python at the [University of Luxembourg]({{site.data.links.Luxembourg.url}}), which some may find useful.
 
 #### [Circle packing convex projective structures]({{site.data.links.circle-pack.url}})
 <img class="col half" align="right" src="{{'/assets/img/circle_pack_demo.png' | prepend: site.baseurl | prepend: site.url }}">This little program lets you visualize the image of the developing map of projective tori that admit the specific "square" 2-circle packing. The full parameter space is drawn on the right and the red point indicates your position. The coordinates are two shearing parameters for an associated punctured torus hyperbolic structure. On the right, you can see the holonomy traces and the underlying upper halfp-lane parameter for the conformal structure of the torus.

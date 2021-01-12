@@ -14,23 +14,26 @@ contact: true
 * convex real projective structures; Hitchin representations
 * low-dimensional topology; mapping class groups
 * circle packings on complex projective structures
+* knowledge graph emebddings and machime learning in geometric spaces
 
-My recent and active projects include circle packings of projective structures (with [Jean-Marc Schlenker]({{site.data.coauthors.Schlenker.url}})), random geodesic triangles on surfaces (with [Olivier Glorieux]({{site.data.coauthors.Glorieux.url}})), and deformation spaces of infinite-type hyperbolic 3-manfiolds (with [Tommaso Cremaschi]({{site.data.coauthors.Cremaschi.url}})). I am also working to finalize a large project on classifying families of hyperbolic 3-manifolds with cusps of low volume with [Rob Meyerhoff]({{site.data.coauthors.Meyerhoff.url}}), [David Gabai]({{site.data.coauthors.Gabai.url}}), Nathaniel Thurston, and [Robert Haraway]({{site.data.coauthors.Haraway.url}}).
+My recent and active projects include volumes of link complements in Seifert fibered spaces (with with [Tommaso Cremaschi]({{site.data.coauthors.Cremaschi.url}})) and  [José Andrés Rodíguez Migueles]({{site.data.coauthors.Migueles.url}}))), circle packings of projective structures (with [Jean-Marc Schlenker]({{site.data.coauthors.Schlenker.url}})), random geodesic triangles on surfaces (with [Olivier Glorieux]({{site.data.coauthors.Glorieux.url}})), and deformation spaces of infinite-type hyperbolic 3-manfiolds (with [Tommaso Cremaschi]({{site.data.coauthors.Cremaschi.url}})). I am also working to finalize a large project on classifying families of hyperbolic 3-manifolds with cusps of low volume with [Rob Meyerhoff]({{site.data.coauthors.Meyerhoff.url}}), [David Gabai]({{site.data.coauthors.Gabai.url}}), Nathaniel Thurston, and [Robert Haraway]({{site.data.coauthors.Haraway.url}}).
 
 Below, you can find a list of my publication and preprints.
 
 #### In preparation
 * **_Hyperbolic 3-manifolds of low cusp volume_**  
     with [David Gabai]({{site.data.coauthors.Gabai.url}}), [Robert Haraway]({{site.data.coauthors.Haraway.url}}), [Rob Meyerhoff]({{site.data.coauthors.Meyerhoff.url}}), and Nathaniel Thurston.
-* **_Random triangles on surfaces_**  
-    with [Olivier Glorieux]({{site.data.coauthors.Glorieux.url}}).
 
 #### Preprint
-* **_The Two Eyes Lemma: a linking problem for horoball necklaces_**  
-    with [David Gabai]({{site.data.coauthors.Gabai.url}}) and [Rob Meyerhoff]({{site.data.coauthors.Meyerhoff.url}}). (submitted \| [arXiv]({{site.data.papers.eyes.arxiv}}))
+* **_Volumes and filling collections of multicurves_**  
+    with Tommaso Cremaschi and José Andrés Rodíguez Migueles. (submitted \| [arXiv]({{ site.data.papers.volumes.arxiv}}))
 * **_Properness for circle packings and Delaunay circle patterns on complex projective structures_**  
     with Jean-Marc Schlenker. (submitted \| [arXiv]({{site.data.papers.proper.arxiv}}))
-* **_Improved bounds for average bending on the convex core of a Kleinian group_**. ([pdf]({{ site.data.papers.lipschitz.path | prepend: site.baseurl | prepend: site.url }}))
+* **_Random triangles on surfaces_**  
+    with [Olivier Glorieux]({{site.data.coauthors.Glorieux.url}}). (submitted \| [arXiv]({{site.data.papers.proper.arxiv}}))
+* **_The Two Eyes Lemma: a linking problem for horoball necklaces_**  
+    with [David Gabai]({{site.data.coauthors.Gabai.url}}) and [Rob Meyerhoff]({{site.data.coauthors.Meyerhoff.url}}). (submitted \| [arXiv]({{site.data.papers.eyes.arxiv}}))
+* **_Improved bounds for average bending on the convex core of a Kleinian group_**. (submitted \| [pdf]({{ site.data.papers.lipschitz.path | prepend: site.baseurl | prepend: site.url }}))
 
 #### Publications
 * **_Basmajian's identity for higher Teichmüller-Thurston theory_**  

@@ -26,3 +26,7 @@ cup:
 
 lipschitz:
     path: /assets/pdf/lipschitz.pdf
+
+volumes:
+    path: /assets/pdf/volumes.pdf
+    arxiv: https://arxiv.org/abs/1911.02732

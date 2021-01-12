@@ -15,7 +15,7 @@ contact_info: yarmola@princeton.edu | Fine Hall 1003 | Mathematics Department | 
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url: http://math.uni.lu/~yarmola 
+url: https://web.math.princeton.edu/~yarmola 
 # baseurl: #/al-folio # the subpath of your site, e.g. /blog/
 # last_updated: # leave blank if you don't want to display last updated
 
@@ -31,7 +31,9 @@ url: http://math.uni.lu/~yarmola
 #  You can even add a little note about which of these is the best way to reach you.
 
 #google_analytics: UA-XXXXXXXXX # out your google-analytics code
-google_verify: JBJVGRQ71LdswjaoUN_9leXVQhTY14e2o7k3dCcxqgs
+#google_verify: JBJVGRQ71LdswjaoUN_9leXVQhTY14e2o7k3dCcxqgs
+google_verify: xSxc-6WQhCubXPOSJTFHGxwG3EEW6Ro4HS2CzrEe_0Y
+
 
 # -----------------------------------------------------------------------------
 # Blog
